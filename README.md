@@ -1,7 +1,9 @@
 ### Hi 👋
 <p align="center">
 <p>
+  <div class="changed rich-diff-level-zero">
   <em>hexify#1337</em>
+  </div>
 </p>
 <p>
             <a>
