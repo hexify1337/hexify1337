@@ -5,7 +5,7 @@
 </p>
 <p>
             <a>
-                <img align="center" src="https://img.shields.io/badge/-Developer-orange"/>
+                <img align="center" src="https://img.shields.io/badge/-developer-orange"/>
             </a> &nbsp;& 
             <a>
                 <img align="center" src="https://img.shields.io/badge/-%20reverse%20engineer-blue"/>
