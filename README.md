@@ -1,13 +1,6 @@
-### Hi 👋
-<p align="center">
-<p>
-   <em>h3xify#1337</em>
-</p>
-<p>
-   <a>
-   <img align="center" src="https://img.shields.io/badge/-developer-orange?&style=for-the-badge"/>
-   </a> &nbsp;& 
-   <a>
-   <img align="center" src="https://img.shields.io/badge/-%20reverse%20engineer-blue?&style=for-the-badge"/>
-   </a>
-</p>
+<a href="https://github.com/anuraghazra/convoychat">
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexify1337&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=hexify1337&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs" />
+</a>
