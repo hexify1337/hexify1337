@@ -8,7 +8,7 @@
 A little more about me...  
 
 ```cpp
-vector<pair<string, string>> aboutme = 
+vector<pair<string, string>> about_me = 
 {
    { "Languages", "cpp, c#, js" }, 
    { "Tools", "vs, git, ida" },
