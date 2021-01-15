@@ -13,7 +13,7 @@ vector<pair<string, string>> about_me =
 {
    { "Languages", "cpp, csharp, js" }, 
    { "Tools", "vs, git, ida" },
-   { "Architecture", "win10" },
+   { "System", "win10" },
    { "Interest", "space and technology" }
 };
 ```
