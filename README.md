@@ -8,12 +8,4 @@
 
 A little more about me...  
 
-```cpp
-vector<pair<string, string>> about_me = 
-{
-   { "System", "Pop!_Os" },
-   { "Interest", "space and technology" }
-};
-```
-
 </div>
